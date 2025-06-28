@@ -1,0 +1,178 @@
+{
+  "results": [
+    {
+      "gender": "female",
+      "name": {
+        "title": "Mrs",
+        "first": "Jill",
+        "last": "Horton"
+      },
+      "location": {
+        "street": {
+          "number": 1185,
+          "name": "Spring St"
+        },
+        "city": "Burkburnett",
+        "state": "New Jersey",
+        "country": "United States",
+        "postcode": 44002,
+        "coordinates": {
+          "latitude": "69.9987",
+          "longitude": "31.8144"
+        },
+        "timezone": {
+          "offset": "+3:00",
+          "description": "Baghdad, Riyadh, Moscow, St. Petersburg"
+        }
+      },
+      "email": "jill.horton@example.com",
+      "login": {
+        "uuid": "76981c19-6598-46a0-b68c-13f474c6d9eb",
+        "username": "smallbutterfly278",
+        "password": "laser",
+        "salt": "xJHyPcDy",
+        "md5": "8ac1040648ef7b2343293886e023b826",
+        "sha1": "75b879a592c6b924834d62716b0be8907dff4abc",
+        "sha256": "985ac2f33072b05c84862520d34260557ebed27cb801709e9112362f6e273e9d"
+      },
+      "dob": {
+        "date": "1999-10-03T03:38:13.313Z",
+        "age": 25
+      },
+      "registered": {
+        "date": "2007-04-16T12:07:22.494Z",
+        "age": 18
+      },
+      "phone": "(474) 869-7659",
+      "cell": "(578) 877-7803",
+      "id": {
+        "name": "SSN",
+        "value": "770-96-2813"
+      },
+      "picture": {
+        "large": "https://randomuser.me/api/portraits/women/48.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/women/48.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/women/48.jpg"
+      },
+      "nat": "US"
+    },
+    {
+      "gender": "male",
+      "name": {
+        "title": "Mr",
+        "first": "احمد",
+        "last": "محمدی"
+      },
+      "location": {
+        "street": {
+          "number": 123,
+          "name": "ولیعصر"
+        },
+        "city": "تهران",
+        "state": "تهران",
+        "country": "ایران",
+        "postcode": 12345,
+        "coordinates": {
+          "latitude": "35.6892",
+          "longitude": "51.3890"
+        },
+        "timezone": {
+          "offset": "+3:30",
+          "description": "Tehran"
+        }
+      },
+      "email": "ahmad.mohammadi@example.com",
+      "login": {
+        "uuid": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+        "username": "ahmad_dev",
+        "password": "password123",
+        "salt": "salt123",
+        "md5": "md5hash123",
+        "sha1": "sha1hash123",
+        "sha256": "sha256hash123"
+      },
+      "dob": {
+        "date": "1990-05-15T10:30:00.000Z",
+        "age": 34
+      },
+      "registered": {
+        "date": "2020-01-10T08:00:00.000Z",
+        "age": 4
+      },
+      "phone": "09123456789",
+      "cell": "09123456789",
+      "id": {
+        "name": "کد ملی",
+        "value": "1234567890"
+      },
+      "picture": {
+        "large": "https://randomuser.me/api/portraits/men/32.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/men/32.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/men/32.jpg"
+      },
+      "nat": "IR"
+    },
+    {
+      "gender": "female",
+      "name": {
+        "title": "Ms",
+        "first": "فاطمه",
+        "last": "احمدی"
+      },
+      "location": {
+        "street": {
+          "number": 456,
+          "name": "انقلاب"
+        },
+        "city": "اصفهان",
+        "state": "اصفهان",
+        "country": "ایران",
+        "postcode": 54321,
+        "coordinates": {
+          "latitude": "32.6546",
+          "longitude": "51.6680"
+        },
+        "timezone": {
+          "offset": "+3:30",
+          "description": "Tehran"
+        }
+      },
+      "email": "fateme.ahmadi@example.com",
+      "login": {
+        "uuid": "b2c3d4e5-f6g7-8901-bcde-f23456789012",
+        "username": "fateme_ui",
+        "password": "password456",
+        "salt": "salt456",
+        "md5": "md5hash456",
+        "sha1": "sha1hash456",
+        "sha256": "sha256hash456"
+      },
+      "dob": {
+        "date": "1995-08-20T14:45:00.000Z",
+        "age": 29
+      },
+      "registered": {
+        "date": "2021-03-15T12:30:00.000Z",
+        "age": 3
+      },
+      "phone": "09351234567",
+      "cell": "09351234567",
+      "id": {
+        "name": "کد ملی",
+        "value": "0987654321"
+      },
+      "picture": {
+        "large": "https://randomuser.me/api/portraits/women/65.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/women/65.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/women/65.jpg"
+      },
+      "nat": "IR"
+    }
+  ],
+  "info": {
+    "seed": "f9a6e611a122bca0",
+    "results": 3,
+    "page": 1,
+    "version": "1.4"
+  }
+} 
